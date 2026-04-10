@@ -47,7 +47,7 @@
     "markdown-toc": "^1.2.0",
     "tap-spec": "^5.0.0",
     "typedoc": "^0.28.4",
-    "typescript": "^5.7.2"
+    "typescript": "^6.0.2"
   },
   "license": "MIT",
   "author": "nichoth <nichoth@gmail.com> (https://nichoth.com)",
